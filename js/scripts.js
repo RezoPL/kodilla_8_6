@@ -3,11 +3,11 @@ var a = 3;
 	value = (a * a) - (2 * a * b) + (b * b);
 
 if (value > 0) {
-	console.log ('Wynik dodatni')
+	console.log (Wynik dodatni);
 }
 if else (value < 0) {
-	console.log ('Wynik ujemny')
+	console.log (Wynik ujemny);
 }
-if else (value = 0) {
-	console.log ('twój wynik to 0')
+else (value = 0) {
+	console.log (Twój wynik to = 0);
 }
