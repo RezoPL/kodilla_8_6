@@ -1,4 +1,4 @@
-var a = 1;
+var a = 1/0;
 var b = 2;
 var value = (a * a) - (2 * a * b) + (b * b);
 
